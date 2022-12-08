@@ -1,13 +1,7 @@
-# :construction: README customizado em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
+Introdução: O One For All é um projeto desenvolvido para o curso da Trybe com conhecimentos mais avançados aprendidos em banco de dados MySQL, fazendo requisições (querys) para um banco dados de músicas / artistas / albuns, utilizando funções do próprio MySQL para trazer as informações desejadas. Exemplo de funções utilizadas: COUNT, GROUP BY, ORDER BY, INNER JOIN.
 
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
+Desafios: O desafio desse projeto foi conseguir utilizar as ferramentas para fazer requisições avançadas, utilizando INNER JOIN e COUNT para juntar e contar/somar informações de várias tabelas e usando o "AS" para definir como esses dados retornariam. 
 
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+Tecnologias Utilizadas: Como em todos projetos desenvolvidos em backend, utilizamos o docker para subir os containers, e usamos querys de MySQL para resolver os desafios.
+
+Arquivos e pastas desenvolvidos por mim: arquivo desafi1.json e todos arquivos desafioxx.sql
